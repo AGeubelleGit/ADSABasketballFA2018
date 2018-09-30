@@ -1,1 +1,4 @@
-# ADSABasketballFA2018
+# ADSA UIUC FALL 2018 Projects
+
+Members:
+* 
